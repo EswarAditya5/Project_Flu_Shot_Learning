@@ -31,7 +31,7 @@ Contributions to this project are welcome. If you would like to contribute, plea
 This project is licensed under the GPU License.
 
 ### Acknowledgments
-- The dataset used in this project is sourced from: https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/
+- The dataset used in this project is sourced from: [Driven data](https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/)
 - The Random Forest algorithm is implemented using the scikit-learn library.
 
 ### Contact
